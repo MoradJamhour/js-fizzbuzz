@@ -15,15 +15,3 @@ for (var i = 1; i < 1001; i++) {
     document.getElementById('lista').innerHTML += "<p>" + i + "</p>";
   }
 }
-
-
-//if (!(i%15)) { //alternativa (!(i%3) && !(i%5))
-    //document.getElementById('container').innerHTML += "<p>" + "FizzBuzz" + "</p>";
-  //} else if (!(i%3)) {
-    //document.getElementById('container').innerHTML += "<p>" + "Fizz" + "</p>";
-  //} else if (!(i%5)) {
-    //document.getElementById('container').innerHTML += "<p>" + "Buzz" + "</p>";
-  //} else {
-    //document.getElementById('container').innerHTML += "<p>" + i + "</p>";
-  //}
-//}
